@@ -132,4 +132,7 @@ Fig. 1 (the documentary corpus / influence-dependence structure) is not
 produced by this repository — it belongs to the documentary-analysis
 pillar of the study, maintained separately from the computational
 experiments released here, and is supplied as a finalized asset
-(`figures/Figure1.png`).
+(`figures/Figure1.png`). However, an interactive Corpus Dashboard
+summarizing the documentary-analysis results (79 references, 14 variables,
+91 relations) is included in this repository and can be accessed via
+the [📊 Corpus Dashboard](Corpus%20Dashboard/README.md) link.
