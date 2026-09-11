@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local configuration (paths, credentials, env variables)
+.deltaz_config
+.env.local
+
+# Regenerated intermediate outputs
+outputs/
+results/sampling_fusion/cache/
+results/sampling_fusion/*.log
+
+# OS
+.DS_Store
+Thumbs.db

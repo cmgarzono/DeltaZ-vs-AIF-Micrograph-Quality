@@ -1,0 +1,41 @@
+{
+  "resolution_hw": [
+    1080,
+    1920
+  ],
+  "axial_scale_factor": 1.6,
+  "height_statistics": {
+    "min": -4.0,
+    "p5": -3.2,
+    "median": -3.2,
+    "p95": 3.2,
+    "max": 4.0,
+    "mean": -1.158662859617273,
+    "std": 2.3607968828118384,
+    "range": 8.0
+  },
+  "geometry": {
+    "outer_rectangle_px": [
+      330,
+      170,
+      1590,
+      930
+    ],
+    "inner_rectangle_px": [
+      720,
+      380,
+      1260,
+      720
+    ],
+    "pyramid_count_declared": 27,
+    "pyramid_count_detected": 27,
+    "indentation_count_declared": 0
+  },
+  "masks": {
+    "plateau_pixels": 1680343,
+    "ramp_pixels": 261921,
+    "hard_step_pixels": 240960,
+    "protrusion_pixels": 613,
+    "protrusion_connected_components": 27
+  }
+}
