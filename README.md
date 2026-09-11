@@ -15,11 +15,15 @@ and scripts needed to reproduce the computational results reported in the
 manuscript.
 
 The documentary/corpus analysis (Fig. 1, Table 1) that motivated the
-phenomenological framework is a separate pillar of the study. While the full
-corpus analysis is a separate work, an interactive Corpus Dashboard summarizing
-the key findings is available here:
+phenomenological framework is a separate pillar of the study. The complete
+documentary analysis remains a separate work, but an interactive **Corpus Dashboard**
+summarizing the key findings is included here:
 
 **[📊 Open Corpus Dashboard](https://cmgarzono.github.io/DeltaZ-vs-AIF-Micrograph-Quality/Corpus%20Dashboard/Corpus_Dashboard.html)**
+
+This dashboard provides access to 79 technical references coded into 14 normalized
+variables with 91 directed relations, enabling exploration of the documentary evidence
+base that grounded the experimental framework.
 
 ## Layout
 
