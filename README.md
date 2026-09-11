@@ -15,8 +15,9 @@ and scripts needed to reproduce the computational results reported in the
 manuscript.
 
 The documentary/corpus analysis (Fig. 1, Table 1) that motivated the
-phenomenological framework is a separate pillar of the study and is not
-part of this code release.
+phenomenological framework is a separate pillar of the study. While the full
+corpus analysis is a separate work, an interactive Corpus Dashboard summarizing
+the key findings is included here: [`Corpus Dashboard`](Corpus%20Dashboard/Corpus_Dashboard.html).
 
 ## Layout
 
