@@ -17,7 +17,9 @@ manuscript.
 The documentary/corpus analysis (Fig. 1, Table 1) that motivated the
 phenomenological framework is a separate pillar of the study. While the full
 corpus analysis is a separate work, an interactive Corpus Dashboard summarizing
-the key findings is included here: [`Corpus Dashboard`](Corpus%20Dashboard/Corpus_Dashboard.html).
+the key findings is available here:
+
+**[📊 Open Corpus Dashboard](https://cmgarzono.github.io/DeltaZ-vs-AIF-Micrograph-Quality/Corpus%20Dashboard/Corpus_Dashboard.html)**
 
 ## Layout
 
